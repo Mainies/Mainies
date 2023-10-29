@@ -1,6 +1,8 @@
-- Hi, I'm @Mainies.
+Hi, I'm @Mainies.
 
-- I am a Data Science Student looking to develop my software and ML skills. My github profile will contain a mix of personal and assigned univeristy projects.
+I am a Master of Data Science Student looking to develop my software and data science skills.
+
+My github profile will contain a mix of personal and assigned univeristy projects.
 
 <!---
 Mainies/Mainies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
