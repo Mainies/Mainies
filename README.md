@@ -8,10 +8,10 @@ LinkedIn Profile:
 www.linkedin.com/in/sammainwood
 
 My current project highlights:
-- Taxi Booking System in Python
-- CLI Reporting Program using Algorithm and Dataset "statistics" in Python
-- Machine Learning and Bias Detection in Triage Classification in Python
-- Relational Database Design and Creation using SQL Lite
+- Taxi Booking System in Python (TaxiSystemA2_Programming)
+- CLI Reporting Program using Algorithm and Dataset "statistics" in Python (TimedCodingChallenge)
+- Machine Learning and Bias Detection in Triage Classification in Python (Triaging_ML_Classification)
+- Relational Database Design and Creation using SQL Lite (RelationalDatabaseDesignProject)
 - Development of a Web Application to showcase a Risk Classifying Neural Network (Participating Group Member, repository available at (https://github.com/WorkstationChris/WIL_Project)
 
 <!---
