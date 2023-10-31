@@ -24,12 +24,13 @@ I'm Sam Mainwood, a Master of Data Science student passionate about developing s
    - Description: A machine learning project focusing on bias detection in triage classification.
    - Link: [Machine Learning Project Repository](#link)
 
-5. **NLP Project TBA**
+5. **Spam Detection/Natural Language Processing Project TBA**
 
 6. **Relational Database Design (RelationalDatabaseDesignProject)**
    - Description: A project where I designed a relational database using data from COVID-19 vaccinations datasets.
    - Link: [Relational Database Project Repository](#link)
-
+  
+7. **Unsupervised Clustering Project TBA**
 
 Feel free to explore these projects, and if you have any questions or feedback, please reach out to me. Let's connect and collaborate!
 
