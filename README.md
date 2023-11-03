@@ -32,8 +32,12 @@ I'm Sam Mainwood, a Master of Data Science student passionate about developing s
   - Description: A project where I designed a relational database using data from COVID-19 vaccinations datasets.
   - Link: [Relational Database Project Repository](https://github.com/Mainies/RelationalDatabaseDesignProject)
 
-7. **Unsupervised Clustering Project TBA**
-
+7. **Unsupervised Clustering Project**
+  - Description: One of my early assignments, this project showcases my journey from a beginner to a more seasoned coder. It's a testament to strong exploratory data analysis and the exploration of clustering methods.
+  - The project aimed to create data visualizations and identify candidates suitable for clustering within a dataset used to group employees based on their likelihood of resigning.
+  - Utilized K Nearest Neighbors and DBSCAN Algorithms, applying a range of hyperparameter tuning techniques (Silhouette Score, Elbow Method w/Inertia) and metrics (Rand Index, Homogeneity, and Completeness) to evaluate models.
+  - Link: [1st Clustering Project](https://github.com/Mainies/1stClusteringProject)
+    
 Feel free to explore these projects, and if you have any questions or feedback, please reach out to me. Let's connect and collaborate!
 
 
