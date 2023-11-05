@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile
+# Mainies GitHub Profile
 
 I'm Sam Mainwood, a Master of Data Science student passionate about developing software and data science skills. This is my GitHub repository, where you'll find a mix of personal and university projects.
 
@@ -6,7 +6,7 @@ I'm Sam Mainwood, a Master of Data Science student passionate about developing s
 
 - LinkedIn Profile: [LinkedIn Profile](https://www.linkedin.com/in/sammainwood)
 - Graduate Certificate in Data Science with Distinction
-- Graduate Diploma in Data Science Strategy and Leadership
+- Graduate Diploma in Data Science Strategy and Leadership with Distinction
 - Current Masters of Data Science (Current Program GPA: 3.75/4)
 
 ## My Current Projects
