@@ -9,7 +9,7 @@ I'm Sam Mainwood, a Master of Data Science student passionate about developing s
 - Graduate Diploma in Data Science Strategy and Leadership with Distinction
 - Current Masters of Data Science (Current Program GPA: 3.75/4)
 
-## My Current Projects
+## My Starred Projects
 
 1. **Development of a Web Application for Risk Classification (Participating Group Member)**
   - Description: I was part of a group project developing a web application to showcase a risk classifying neural network.
