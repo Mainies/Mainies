@@ -7,7 +7,7 @@ I'm Sam Mainwood, a Master of Data Science student passionate about developing s
 - LinkedIn Profile: [LinkedIn Profile](https://www.linkedin.com/in/sammainwood)
 - Graduate Certificate in Data Science with Distinction
 - Graduate Diploma in Data Science Strategy and Leadership with Distinction
-- Current Masters of Data Science (Current Program GPA: 3.75/4)
+- Current Masters of Data Science (Current Program GPA: 3.86/4)
 
 ## My Starred Projects
 
