@@ -36,10 +36,10 @@ I'm Sam Mainwood, a Master of Data Science student passionate about developing s
   - Link: [Relational Database Project Repository](https://github.com/Mainies/RelationalDatabaseDesignProject)
 
 7. **CLI Restaurant Menu in Java**
-   - Created a menu interface for a hypothetical restaurant as part of a university. Includes OOP design and basic unit testing.
-   - Link: [JavaMenuProgram](https://github.com/Mainies/AdvProgA1)
+  - Created a menu interface for a hypothetical restaurant as part of a university. Includes OOP design and basic unit testing.
+  - Link: [JavaMenuProgram](https://github.com/Mainies/AdvProgA1)
 
-7. **Unsupervised Clustering Project**
+8. **Unsupervised Clustering Project**
   - Description: One of my early assignments, this project showcases my journey from a beginner to a more seasoned coder. It's a testament to strong exploratory data analysis and the exploration of clustering methods.
   - The project aimed to create data visualizations and identify candidates suitable for clustering within a dataset used to group employees based on their likelihood of resigning.
   - Utilized K Nearest Neighbors and DBSCAN Algorithms, applying a range of hyperparameter tuning techniques (Silhouette Score, Elbow Method w/Inertia) and metrics (Rand Index, Homogeneity, and Completeness) to evaluate models.
