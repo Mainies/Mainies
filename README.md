@@ -35,7 +35,7 @@ I'm Sam Mainwood, a Master of Data Science student passionate about developing s
   - Description: A project where I designed a relational database using data from COVID-19 vaccinations datasets.
   - Link: [Relational Database Project Repository](https://github.com/Mainies/RelationalDatabaseDesignProject)
 
-7. *CLI Restaurant Menu in Java**
+7. **CLI Restaurant Menu in Java**
    - Created a menu interface for a hypothetical restaurant as part of a university. Includes OOP design and basic unit testing.
    - Link: [JavaMenuProgram](https://github.com/Mainies/AdvProgA1)
 
